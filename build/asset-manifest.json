@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a8162c6.chunk.css",
+    "main.js": "/static/js/main.40c526d7.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.056c5d9e.js",
+    "static/css/2.16f3ee03.chunk.css": "/static/css/2.16f3ee03.chunk.css",
+    "static/js/2.e991087a.chunk.js": "/static/js/2.e991087a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.f0a98f1fb806d3d5b9a9148d8dc691da.js": "/precache-manifest.f0a98f1fb806d3d5b9a9148d8dc691da.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.e991087a.chunk.js.LICENSE.txt": "/static/js/2.e991087a.chunk.js.LICENSE.txt",
+    "static/media/logo2.jpg": "/static/media/logo2.de903793.jpg",
+    "static/media/index.css": "/static/media/muli-latin-900italic.fb9b3ba4.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.056c5d9e.js",
+    "static/css/2.16f3ee03.chunk.css",
+    "static/js/2.e991087a.chunk.js",
+    "static/css/main.6a8162c6.chunk.css",
+    "static/js/main.40c526d7.chunk.js"
+  ]
+}
